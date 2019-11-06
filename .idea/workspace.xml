@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a929b1e6-a225-49aa-a17f-ae81b8ff73da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/proxy.conf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/classes/auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/classes/token.interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/analitics.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/auth.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/categories.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/orders.services.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/position.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,7 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -118,10 +80,10 @@
         <option value="$PROJECT_DIR$/config/keys.prod.js" />
         <option value="$PROJECT_DIR$/config/Keys.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/client/package.json" />
-        <option value="$PROJECT_DIR$/client/package-lock.json" />
         <option value="$PROJECT_DIR$/client/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/client/package-lock.json" />
+        <option value="$PROJECT_DIR$/client/package.json" />
       </list>
     </option>
   </component>
@@ -197,7 +159,7 @@
       <workItem from="1572851755076" duration="7112000" />
       <workItem from="1572952450694" duration="7154000" />
       <workItem from="1572966241066" duration="15979000" />
-      <workItem from="1573010478214" duration="1763000" />
+      <workItem from="1573010478214" duration="2417000" />
     </task>
     <task id="LOCAL-00001" summary="as">
       <created>1573012752051</created>
@@ -206,17 +168,25 @@
       <option name="project" value="LOCAL" />
       <updated>1573012752051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="as">
+      <created>1573013373245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573013373245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161629000" />
+    <option name="totallyTimeSpent" value="162283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1590621" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -227,7 +197,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Favorites" order="9" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49873257" visible="true" weight="0.36608344" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49873257" weight="0.36608344" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50126743" side_tool="true" weight="0.36608344" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -591,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/proxy.conf.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -610,13 +573,6 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="3109" column="83" selection-start-line="3109" selection-start-column="83" selection-end-line="3109" selection-end-column="83" />
         </state>
       </provider>
     </entry>
@@ -651,6 +607,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="3115" column="89" selection-start-line="3115" selection-start-column="89" selection-end-line="3115" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
